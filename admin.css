@@ -1,0 +1,45 @@
+#header {
+  background: rgba(31, 30, 30, 0.24);
+}
+
+.hamburger {
+  display: none;
+
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 50px;
+
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+
+}
+
+ul li {
+  padding-top: 15px;
+  font-size: 24px;
+  margin: 0 15px;
+}
+img {
+  width: 22rem;
+  height: 15rem;
+}
+
+.tableau,
+.Form {
+  margin: 100px 0;
+}
+.btn{
+  margin: 0 30em;
+}
+body{
+  background-image: url("img/bg.jpg") !important;
+}
+.button{
+  color: #c7493a;
+}
